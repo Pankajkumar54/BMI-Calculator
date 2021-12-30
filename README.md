@@ -1,5 +1,5 @@
 # BMI CALCULATOR
-## A BMI CALCULATOR website was created in order to test my knowledge of HTML, CSS , JavaScript.
+## BMI CALCULATOR website  HTML, CSS , JavaScript.
 
 
 ## Languages Used
@@ -11,6 +11,6 @@
     CSS
   </li>
    <li> 
-    CSS
+   JavaScript
   </li>
 
